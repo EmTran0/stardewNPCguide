@@ -12,8 +12,7 @@
  ## Technologies
  Project is created with:
  Python 3
- PyQt5
- PyQt5 Designer
+ Tkinter
 
  ## Sources
  The GUI was inspired by this tutorial:
